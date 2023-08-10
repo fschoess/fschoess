@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Cognitiva](www.cognitiva.la)
 
-- 💬 Ask me about **Enterprise Architecture, Artificial Intelligence.**
+- 💬 Ask me about **Enterprise Architecture, Artificial Intelligence and anything else.**
 
 - 📫 How to reach me **fschoess@gmail.com, fschoess@cognitiva.la**
 
-- ⚡ Fun fact **I play basketball, i love barbecues & drinks**
+- ⚡ Fun fact **I play basketball and, i love barbecues & drinks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
